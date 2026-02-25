@@ -1,6 +1,26 @@
 {
     "custom_nodes": [
         {
+            "author": "LiJT",
+            "title": "ComfyUI-JT_Tools",
+            "reference": "https://github.com/LiJT/ComfyUI-JT_Tools",
+            "files": [
+                "https://github.com/LiJT/ComfyUI-JT_Tools"
+            ],
+            "install_type": "git-clone",
+            "description": "ComfyUI-JT_Tools custom nodes."
+        },
+        {
+            "author": "ThanaritKanjanametawatAU",
+            "title": "comfyui_runninghub_nanobanana",
+            "reference": "https://github.com/ThanaritKanjanametawatAU/comfyui_runninghub_nanobanana",
+            "files": [
+                "https://github.com/ThanaritKanjanametawatAU/comfyui_runninghub_nanobanana"
+            ],
+            "install_type": "git-clone",
+            "description": "RunningHub Nano Banana Pro API node for ComfyUI"
+        },
+        {
             "author": "DazzleNodes",
             "title": "ComfyUI-DazzleSwitch",
             "reference": "https://github.com/DazzleNodes/ComfyUI-DazzleSwitch",
