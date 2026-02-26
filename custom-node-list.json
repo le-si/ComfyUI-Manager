@@ -43602,6 +43602,16 @@
             "install_type": "git-clone",
             "description": "Image browser extension for ComfyUI with search, favorites, metadata view, compare mode, and media support."
         },
+        {
+            "author": "AlienMH27",
+            "title": "ComfyUI-LuminaXStudio",
+            "reference": "https://github.com/mrlonglegland/ComfyUI-LuminaXStudio",
+            "files": [
+                "https://github.com/mrlonglegland/ComfyUI-LuminaXStudio"
+            ],
+            "install_type": "git-clone",
+            "description": "Advanced Prompt Engineering nodes powered by Llama 3."
+        },
 
 
 
