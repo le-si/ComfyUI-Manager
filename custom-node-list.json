@@ -38829,6 +38829,17 @@
             "description": "Remote workflow executor node - Execute workflows on remote ComfyUI servers. Supports image/text/audio/video input and output."
         },
         {
+            "author": "Pondowner857",
+            "title": "ComfyUI Workflow Protector",
+            "id": "comfyui-workflow-protector",
+            "reference": "https://github.com/Pondowner857/comfyui-workflow-protector",
+            "files": [
+                "https://github.com/Pondowner857/comfyui-workflow-protector"
+            ],
+            "install_type": "git-clone",
+            "description": "ComfyUI Workflow Protector is a security plugin for ComfyUI that provides multi-layered protection against unauthorized export, copying, or usage of workflows. It supports password-based access control and workflow file encryption to safeguard your creative work."
+        },
+        {
             "author": "luxdelux7",
             "title": "Forbidden Vision",
             "reference": "https://github.com/luxdelux7/ComfyUI-Forbidden-Vision",
@@ -44036,17 +44047,6 @@
             ],
             "install_type": "unzip",
             "description": "This is a node to convert an image into a CMYK Halftone dot image."
-        },
-        {
-            "author": "Pondowner857",
-            "title": "ComfyUI Workflow Protector",
-            "id": "comfyui-workflow-protector",
-            "reference": "https://github.com/Pondowner857/comfyui-workflow-protector",
-            "files": [
-                "https://github.com/Pondowner857/comfyui-workflow-protector"
-            ],
-            "install_type": "git-clone",
-            "description": "ComfyUI Workflow Protector is a security plugin for ComfyUI that provides multi-layered protection against unauthorized export, copying, or usage of workflows. It supports password-based access control and workflow file encryption to safeguard your creative work."
         }
     ]
 }
