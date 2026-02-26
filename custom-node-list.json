@@ -43591,6 +43591,17 @@
             "install_type": "git-clone",
             "description": "Seed-based prompt line picker and VRAM-aware video frame limiter for ComfyUI"
         },
+        {
+            "author": "Flibens",
+            "title": "ComfyUI Image Browser",
+            "id": "comfyui-image-browser-flibens",
+            "reference": "https://github.com/Flibens/comfyui-image-browser",
+            "files": [
+                "https://github.com/Flibens/comfyui-image-browser"
+            ],
+            "install_type": "git-clone",
+            "description": "Image browser extension for ComfyUI with search, favorites, metadata view, compare mode, and media support."
+        },
 
 
 
@@ -43985,17 +43996,6 @@
             ],
             "install_type": "unzip",
             "description": "This is a node to convert an image into a CMYK Halftone dot image."
-        },
-        {
-            "author": "Flibens",
-            "title": "ComfyUI Image Browser",
-            "id": "comfyui-image-browser-flibens",
-            "reference": "https://github.com/Flibens/comfyui-image-browser",
-            "files": [
-                "https://github.com/Flibens/comfyui-image-browser"
-            ],
-            "install_type": "git-clone",
-            "description": "Image browser extension for ComfyUI with search, favorites, metadata view, compare mode, and media support."
         }
     ]
 }

@@ -1,6 +1,17 @@
 {
     "custom_nodes": [
         {
+            "author": "Flibens",
+            "title": "ComfyUI Image Browser",
+            "id": "comfyui-image-browser-flibens",
+            "reference": "https://github.com/Flibens/comfyui-image-browser",
+            "files": [
+                "https://github.com/Flibens/comfyui-image-browser"
+            ],
+            "install_type": "git-clone",
+            "description": "Image browser extension for ComfyUI with search, favorites, metadata view, compare mode, and media support."
+        },
+        {
             "author": "sugarkwork",
             "title": "comfyui-auto-mosaic",
             "reference": "https://github.com/sugarkwork/comfyui-auto-mosaic",
