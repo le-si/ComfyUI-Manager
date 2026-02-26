@@ -12516,6 +12516,16 @@
             "description": "Extended ComfyUI node with WD14 Tagger-based image analysis and automatic character identification to apply optimized prompts dynamically. (Description by CC)"
         },
         {
+            "author": "sugarkwork",
+            "title": "comfyui-auto-mosaic",
+            "reference": "https://github.com/sugarkwork/comfyui-auto-mosaic",
+            "files": [
+                "https://github.com/sugarkwork/comfyui-auto-mosaic"
+            ],
+            "install_type": "git-clone",
+            "description": "Auto detect and process sensitive areas using YOLO with mosaic, blur, white out, and PSD export."
+        },
+        {
             "author": "alessandrozonta",
             "title": "ComfyUI-CenterNode",
             "id": "comfyui-centernode",
@@ -39538,16 +39548,6 @@
             "description": "A ComfyUI custom node for enhancing prompts using OpenAI-compatible APIs (like DeepSeek, OpenAI, etc.)."
         },
         {
-            "author": "anilstream",
-            "title": "ComfyUI-Ideogram-Character",
-            "reference": "https://github.com/anilstream/ComfyUI-Ideogram-Character",
-            "files": [
-                "https://github.com/anilstream/ComfyUI-Ideogram-Character"
-            ],
-            "install_type": "git-clone",
-            "description": "Custom ComfyUI node for generating consistent character images using Ideogram API v3's character reference feature. (Description by CC)"
-        },
-        {
             "author": "Moeblack",
             "title": "ComfyUI-SimpleChat",
             "reference": "https://github.com/Moeblack/ComfyUI-SimpleChat",
@@ -41542,16 +41542,6 @@
             ],
             "install_type": "git-clone",
             "description": "A modular character prompt generator for ComfyUI"
-        },
-        {
-            "author": "FemReiyaDev",
-            "title": "ComfyUI-ReiyaNodes",
-            "reference": "https://github.com/FemReiyaDev/ComfyUI-ReiyaNodes",
-            "files": [
-                "https://github.com/FemReiyaDev/ComfyUI-ReiyaNodes"
-            ],
-            "install_type": "git-clone",
-            "description": "Custom ComfyUI nodes for image stitching"
         },
         {
             "author": "kantan-kanto",
@@ -43590,6 +43580,16 @@
             ],
             "install_type": "git-clone",
             "description": "Custom nodes to make ComfyUI sampling closer to flow-matching behavior for Flux, Qwen-Image, and Z-Image."
+        },
+        {
+            "author": "magicoli",
+            "title": "comfyui-oli-prompt-tools",
+            "reference": "https://github.com/magicoli/comfyui-oli-prompt-tools",
+            "files": [
+                "https://github.com/magicoli/comfyui-oli-prompt-tools"
+            ],
+            "install_type": "git-clone",
+            "description": "Seed-based prompt line picker and VRAM-aware video frame limiter for ComfyUI"
         },
 
 

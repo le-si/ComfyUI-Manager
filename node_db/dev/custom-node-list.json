@@ -1,6 +1,16 @@
 {
     "custom_nodes": [
         {
+            "author": "MTheUnexpected-1",
+            "title": "ModuSnap-ComfyUI-Manager",
+            "reference": "https://github.com/MTheUnexpected-1/ModuSnap-ComfyUI-Manager",
+            "files": [
+                "https://github.com/MTheUnexpected-1/ModuSnap-ComfyUI-Manager"
+            ],
+            "install_type": "git-clone",
+            "description": "Custom-node bridge between ComfyUI and Modusnap Engine manager APIs"
+        },
+        {
             "author": "Lumiyumi",
             "title": "comfyui_stringcombineX",
             "reference": "https://github.com/Lumiyumi/comfyui_stringcombineX",
