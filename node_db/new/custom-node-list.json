@@ -1,6 +1,16 @@
 {
     "custom_nodes": [
         {
+            "author": "emniko",
+            "title": "ComfyUI-CLIPScore",
+            "reference": "https://github.com/emniko/ComfyUI-CLIPScore",
+            "files": [
+                "https://github.com/emniko/ComfyUI-CLIPScore"
+            ],
+            "install_type": "git-clone",
+            "description": "Research-grade CLIP Score metric for Flux/SD. Raw cosine similarity."
+        },
+        {
             "author": "TripleHeadedMonkey",
             "title": "ComfyUI-Zlycoris",
             "reference": "https://github.com/TripleHeadedMonkey/ComfyUI-Zlycoris",
@@ -269,8 +279,7 @@
               "offline",
               "translation",
               "privacy"
-            ],
-            "nodename_pattern": "QwenOfflinePrompt"
+            ]
         },
         {
             "author": "silveroxides",

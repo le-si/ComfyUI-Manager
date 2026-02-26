@@ -43448,8 +43448,7 @@
               "offline",
               "translation",
               "privacy"
-            ],
-            "nodename_pattern": "QwenOfflinePrompt"
+            ]
         },
         {
             "author": "Terpentinas",
@@ -43632,6 +43631,16 @@
             ],
             "install_type": "git-clone",
             "description": "Pads images to multiples of N (right/bottom only) with solid color fill. Useful for VAE/model dimension requirements."
+        },
+        {
+            "author": "emniko",
+            "title": "ComfyUI-CLIPScore",
+            "reference": "https://github.com/emniko/ComfyUI-CLIPScore",
+            "files": [
+                "https://github.com/emniko/ComfyUI-CLIPScore"
+            ],
+            "install_type": "git-clone",
+            "description": "Research-grade CLIP Score metric for Flux/SD. Raw cosine similarity."
         },
 
 
@@ -44027,34 +44036,6 @@
             ],
             "install_type": "unzip",
             "description": "This is a node to convert an image into a CMYK Halftone dot image."
-        },
-        {
-            "author": "AnonBOTpl",
-            "title": "ComfyUI Qwen Prompt Expander",
-            "reference": "https://github.com/AnonBOTpl/ComfyUI-Qwen-Prompt-Expander",
-            "files": [
-                "https://github.com/AnonBOTpl/ComfyUI-Qwen-Prompt-Expander"
-            ],
-            "install_type": "git-clone",
-            "description": "Local AI prompt generator using Qwen/SmolLM2 models. 100% offline and private. Supports 4-bit/8-bit quantization. Runs on 6GB VRAM GPUs alongside Stable Diffusion. Smart token management, Polish-English translation, embedding support, OOM protection.",
-            "tags": [
-              "prompt",
-              "AI",
-              "LLM",
-              "offline",
-              "translation",
-              "privacy"
-            ],
-            "nodename_pattern": "QwenOfflinePrompt",
-            "version": "1.1.0",
-            "nodes": [
-              "Qwen Prompt Expander",
-              "Qwen Diagnostics"
-            ],
-            "last_update": "2026-02-23",
-            "changelog": "https://github.com/AnonBOTpl/ComfyUI-Qwen-Prompt-Expander#-changelog",
-            "homepage": "https://github.com/AnonBOTpl/ComfyUI-Qwen-Prompt-Expander",
-            "license": "MIT"
-           }
-         ]
+        }
+    ]
 }
