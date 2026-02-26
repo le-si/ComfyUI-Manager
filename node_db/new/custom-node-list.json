@@ -1,6 +1,16 @@
 {
     "custom_nodes": [
         {
+            "author": "TripleHeadedMonkey",
+            "title": "ComfyUI-Zlycoris",
+            "reference": "https://github.com/TripleHeadedMonkey/ComfyUI-Zlycoris",
+            "files": [
+                "https://github.com/TripleHeadedMonkey/ComfyUI-Zlycoris"
+            ],
+            "install_type": "git-clone",
+            "description": "Custom nodes for loading Z-Image LoRa/LoHa. Includes nodes for merging Qwen 3 4B models and extracting Qwen lora from Qwen 3 4b models."
+        },
+        {
             "author": "mr-september",
             "title": "ComfyUI Pad to Multiple",
             "id": "pad-to-multiple",
