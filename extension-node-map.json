@@ -2806,7 +2806,6 @@
             "QwenOfflinePrompt"
         ],
         {
-            "nodename_pattern": "QwenOfflinePrompt",
             "title_aux": "ComfyUI Qwen Prompt Expander"
         }
     ],
@@ -21416,6 +21415,41 @@
             "title_aux": "ComfyUI_YoloSegment_Mask"
         }
     ],
+    "https://github.com/TripleHeadedMonkey/ComfyUI-Zlycoris": [
+        [
+            "CLIPLoaderGGUF",
+            "DualCLIPLoaderGGUF",
+            "GetImageSizePlus+",
+            "KeywordMatchGate",
+            "PrimitiveWidgetToString",
+            "QuadrupleCLIPLoaderGGUF",
+            "TripleCLIPLoaderGGUF",
+            "UnetLoaderGGUF",
+            "UnetLoaderGGUFAdvanced",
+            "ZImageAITKLoRALoader",
+            "ZImageAdvancedConditioning",
+            "ZImageComfyInjector",
+            "ZImageComfyUninjector",
+            "ZImageConditioningContrast",
+            "ZImageDiffSynthLoader",
+            "ZImageDiffusersLoader",
+            "ZImageGGUFInjector",
+            "ZImageGGUFStandaloneLoader",
+            "ZImageLoaderAndPatcher",
+            "ZImageLycorisStacker",
+            "ZImageQwenTELoRALoader",
+            "ZImageRawClipMerge",
+            "ZImageRawModelMerge",
+            "ZImageSaveTextEncoder",
+            "ZImageSaveTransformer",
+            "ZImageTIESMerge",
+            "ZImageUniversalLoRALoader",
+            "ZImageVectorMerge"
+        ],
+        {
+            "title_aux": "ComfyUI-Zlycoris"
+        }
+    ],
     "https://github.com/TripleHeadedMonkey/ComfyUI_MileHighStyler": [
         [
             "PerfectionBetaStyler"
@@ -34045,6 +34079,14 @@
         ],
         {
             "title_aux": "Comfyui-ColorMatchNodes"
+        }
+    ],
+    "https://github.com/emniko/ComfyUI-CLIPScore": [
+        [
+            "CLIPScoreNode"
+        ],
+        {
+            "title_aux": "ComfyUI-CLIPScore"
         }
     ],
     "https://github.com/emojiiii/ComfyUI_Emojiiii_Custom_Nodes": [
@@ -46714,6 +46756,14 @@
             "title_aux": "ComfyUI-Actual-Denoise"
         }
     ],
+    "https://github.com/mr-september/comfyui-pad-to-multiple": [
+        [
+            "ImagePadToMultiple"
+        ],
+        {
+            "title_aux": "ComfyUI Pad to Multiple"
+        }
+    ],
     "https://github.com/mr7thing/circle_pattern_processor": [
         [
             "CirclePatternProcessor",
@@ -46902,6 +46952,15 @@
         {
             "author": "Konie",
             "title_aux": "ComfyUI-Fooocus"
+        }
+    ],
+    "https://github.com/mrlonglegland/ComfyUI-LuminaXStudio": [
+        [
+            "LuminaXOFMNode",
+            "LuminaXPromptsNode"
+        ],
+        {
+            "title_aux": "ComfyUI-LuminaXStudio"
         }
     ],
     "https://github.com/mrm987/ComfyUI_Multi_Prompt_Generator": [

@@ -6006,14 +6006,6 @@
             "title_aux": "ComfyUI-Legendary-Nodes"
         }
     ],
-    "https://github.com/anilstream/ComfyUI-NanoBananaPro": [
-        [
-            "NanoBananaBasicNode"
-        ],
-        {
-            "title_aux": "ComfyUI-NanoBananaPro"
-        }
-    ],
     "https://github.com/animEEEmpire/ComfyUI-Animemory-Loader": [
         [
             "AnimemoryNode"
