@@ -43612,6 +43612,17 @@
             "install_type": "git-clone",
             "description": "Advanced Prompt Engineering nodes powered by Llama 3."
         },
+        {
+            "author": "mr-september",
+            "title": "ComfyUI Pad to Multiple",
+            "id": "pad-to-multiple",
+            "reference": "https://github.com/mr-september/comfyui-pad-to-multiple",
+            "files": [
+                "https://github.com/mr-september/comfyui-pad-to-multiple"
+            ],
+            "install_type": "git-clone",
+            "description": "Pads images to multiples of N (right/bottom only) with solid color fill. Useful for VAE/model dimension requirements."
+        },
 
 
 
@@ -44006,17 +44017,6 @@
             ],
             "install_type": "unzip",
             "description": "This is a node to convert an image into a CMYK Halftone dot image."
-        },
-        {
-            "author": "mr-september",
-            "title": "ComfyUI Pad to Multiple",
-            "id": "pad-to-multiple",
-            "reference": "https://github.com/mr-september/comfyui-pad-to-multiple",
-            "files": [
-                "https://github.com/mr-september/comfyui-pad-to-multiple"
-            ],
-            "install_type": "git-clone",
-            "description": "Pads images to multiples of N (right/bottom only) with solid color fill. Useful for VAE/model dimension requirements."
         }
     ]
 }
