@@ -1,6 +1,67 @@
 {
     "custom_nodes": [
         {
+            "author": "serious-factory",
+            "title": "ComfyUI-MultiTalkPromptSchedule",
+            "reference": "https://github.com/serious-factory/ComfyUI-MultiTalkPromptSchedule",
+            "files": [
+                "https://github.com/serious-factory/ComfyUI-MultiTalkPromptSchedule"
+            ],
+            "install_type": "git-clone",
+            "description": "Frame-based prompt scheduling for InfiniteTalk/MultiTalk in ComfyUI"
+        },
+        {
+            "author": "Alatza",
+            "title": "ComfyUI-DynamicPromptComposer",
+            "reference": "https://github.com/Alatza/ComfyUI-DynamicPromptComposer",
+            "files": [
+                "https://github.com/Alatza/ComfyUI-DynamicPromptComposer"
+            ],
+            "install_type": "git-clone",
+            "description": "ComfyUI custom node for building varied prompts across batch generations using sections and per-section pick modes."
+        },
+        {
+            "author": "Nekodificador",
+            "title": "ComfyUI-NKD-Sigmas-Curve",
+            "reference": "https://github.com/Nekodificador/ComfyUI-NKD-Sigmas-Curve",
+            "files": [
+                "https://github.com/Nekodificador/ComfyUI-NKD-Sigmas-Curve"
+            ],
+            "install_type": "git-clone",
+            "description": "Interactive sigma schedule editor for ComfyUI — NURBS spline curve widget"
+        },
+        {
+            "author": "BacoHubo",
+            "title": "ComfyUI_SeedVR2_Tiler",
+            "reference": "https://github.com/BacoHubo/ComfyUI_SeedVR2_Tiler",
+            "files": [
+                "https://github.com/BacoHubo/ComfyUI_SeedVR2_Tiler"
+            ],
+            "install_type": "git-clone",
+            "description": "Tile Splitter and Stitcher nodes for SeedVR2 upscaling in ComfyUI"
+        },
+        {
+            "author": "GHOSTLXH",
+            "title": "ComfyUI_Danbooru_Formatter",
+            "reference": "https://github.com/GHOSTLXH/ComfyUI_Danbooru_Formatter",
+            "files": [
+                "https://github.com/GHOSTLXH/ComfyUI_Danbooru_Formatter"
+            ],
+            "install_type": "git-clone",
+            "description": "These are two ComfyUI nodes used for converting input prompts into the Danbooru tag format (tag_a, tag_b, ...) and outputting the converted prompts."
+        },
+        {
+            "author": "tea-time-labs",
+            "title": "sweet-tea-nodes",
+            "reference": "https://github.com/tea-time-labs/sweet-tea-nodes",
+            "files": [
+                "https://github.com/tea-time-labs/sweet-tea-nodes"
+            ],
+            "install_type": "git-clone",
+            "description": "Advanced ComfyUI node pack: seam-locked pose tiled upscaling and cap-based temporal stitch inpainting for WAN VACE."
+        },
+
+        {
             "author": "Pondowner857",
             "title": "ComfyUI Workflow Protector",
             "id": "comfyui-workflow-protector",
